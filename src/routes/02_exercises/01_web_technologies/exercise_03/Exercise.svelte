@@ -3,3 +3,4 @@
         <li>position</li>
         <li>length</li>
     </ol>
+<p> Exercise 3 trala</p>
